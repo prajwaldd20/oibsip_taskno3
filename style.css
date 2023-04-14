@@ -1,0 +1,58 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+body{
+	background-color: yellowgreen;
+	/* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8_gE0sYNAt1-H6LwH0St8tRW0lhuXVYwTQ&usqp=CAU"); */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+	
+	
+}
+img{
+	height: 100vh;
+	width: 100%;
+}
+form 
+{
+	position: absolute;
+	top: 180px;
+	left: 550px;
+	font-size: 30px;
+}
+body h1{
+	position: absolute;
+	top: 110px;
+	left: 600px;
+}
+nav p{
+	font-size: 45px;
+	text-align: center;
+	letter-spacing: 10px;
+	/* background-color: rgb(144, 195, 239); */
+	background-image: linear-gradient(to right, rgb(61, 205, 61), rgb(2, 113, 2),rgb(53, 163, 169),rgb(102, 102, 229));
+	color:rgb(0, 0, 0);
+	text-decoration: underline rgb(2, 2, 2);
+}
+form .inp{
+   height: 35px;
+   width: 300px;
+   font-size: 20px;
+}
+.container{
+	height: 380px;
+	width: 480px;
+	/* background-color: aquamarine; */
+	position: absolute;
+	padding: 50px;
+}
+
+.sub:hover{
+	color:black;
+	background-color: aquamarine;
+}
+	
